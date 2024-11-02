@@ -1,0 +1,49 @@
+.studentsNameList{
+    background: #e0e4e9;
+    padding: 10px;
+    border-radius: 10px;
+    border-color: #787474;
+    border-style: solid;
+    border-width: 2px;
+    margin: 10px 0px;
+}
+.SelectCSDiv{
+    background: rgb(201,231,235);
+background: linear-gradient(90deg, rgba(201,231,235,1) 0%, rgba(175,229,230,1) 48%, rgba(73,223,216,1) 100%);
+}
+.studentsDetailsSpan{
+    margin: 0px 3px ;
+    display: table-cell;
+}
+.index{
+    width: 30px;
+}
+.admNo{
+    width: 50px;
+}
+.name{
+    width: 200px;
+}
+.fname{
+    width: 200px;
+}
+.session{
+    width: 150px;
+}
+.studentsNameListMainDiv:hover{
+    box-shadow:  0 10px 16px 0 rgb(0 0 0 / 20%), 0 6px 20px 0 rgb(0 0 0 / 19%);
+}
+.studentsNameListEditDiv{
+    width: 100%;
+    padding: 10px 20px 50px 10px;
+    margin: 0px 0px 20px 0px;
+    background-color: honeydew;
+    border-radius: 20px;
+}
+.studentsDetailEditLabel{
+    margin: 0px;
+}
+.studentsDetailEditInput{
+    margin: 0px 0px 20px 0px;
+    
+}
